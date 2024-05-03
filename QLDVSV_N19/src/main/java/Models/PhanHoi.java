@@ -60,8 +60,5 @@ public class PhanHoi {
 		NgayPH = ngayPH;
 	}
 	
-	public String ID(String myc){
-		
-		return "";
-	}
+	
 }

@@ -1,5 +1,4 @@
 eclipse.preferences.version=1
-encoding//src/main/java/Controllers/PhanHoiController.java=UTF-8
-encoding//src/main/java/Controllers/SinhVienController.java=UTF-8
-encoding//src/main/webapp/SinhVienThongTinCaNhan.jsp=UTF-8
-encoding//src/main/webapp/assets/css/app.css=UTF-8
+encoding//src/main/webapp/AdminThongTinCaNhan.jsp=UTF-8
+encoding//src/main/webapp/DangNhap.jsp=UTF-8
+encoding//src/main/webapp/css/app.css=UTF-8
